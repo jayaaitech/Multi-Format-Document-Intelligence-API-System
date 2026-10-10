@@ -1,5 +1,5 @@
 
-# Multi-Format Engineering Document Intelligence API
+# Multi-Format Document Intelligence API System
 
 An AI-powered engineering document intelligence system that processes RFQ documents, BOQs, CAD files, and other engineering documents using RAG, vector search, LLM-based extraction, and cross-document conflict detection.
 
